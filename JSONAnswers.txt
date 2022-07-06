@@ -1,0 +1,7 @@
+1. Answer is b, Reason for invalid answers below
+    a. this is a javascript object where the keys doesn't have double quotes
+    b. this is an invalid json object since the values are in single quotes whereas the keys should be in double quotes to be a valid JSON string
+
+2. Answer is a, Reason for invalid answers below
+    b. this is supposed to be an object, so a key is expected for an object where it is not present
+    c. this is an array of json and not an object
